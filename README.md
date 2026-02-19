@@ -1,79 +1,35 @@
 <h1 align="center">Willams</h1>
-<h3 align="center">Senior Frontend Developer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;Clean+Code+Advocate;Building+Scalable+UI;Always+Improving" />
+</p>
 
 ---
 
-## 👨‍💻 Professional Summary
+## 👨‍💻 About
 
-I am a frontend-focused software engineer with strong expertise in building scalable, maintainable, and performance-driven web applications.  
-My approach is centered around clean architecture, reusable components, and writing code that is easy to scale and maintain.
-
-I believe in:
-- Writing clean and predictable code
-- Building responsive and accessible UI
-- Continuous improvement and learning
-- Performance-first development mindset
+Frontend-focused developer building scalable, responsive and maintainable web interfaces.  
+I care about performance, structure and long-term code quality.
 
 ---
 
-## 🧠 Core Expertise
+## 🛠 Skills
 
-Frontend Development  
-Component-Based Architecture  
-Responsive Web Design  
-UI Performance Optimization  
-Clean Code Principles  
+HTML  
+<img src="https://progress-bar.dev/90/?scale=100&title=HTML&width=500&color=58A6FF" />
 
----
+CSS  
+<img src="https://progress-bar.dev/90/?scale=100&title=CSS&width=500&color=58A6FF" />
 
-## 🛠 Technical Skills
+JavaScript  
+<img src="https://progress-bar.dev/70/?scale=100&title=JavaScript&width=500&color=F7DF1E" />
 
-HTML — 90%  
-CSS — 90%  
-JavaScript — 70%  
-React — 30%  
-Tailwind CSS — 60%  
+React  
+<img src="https://progress-bar.dev/30/?scale=100&title=React&width=500&color=61DAFB" />
 
----
-
-## ⚙️ Tech Stack
-
-- HTML5  
-- CSS3  
-- JavaScript (ES6+)  
-- React  
-- Tailwind CSS  
-- Git & GitHub  
+Tailwind CSS  
+<img src="https://progress-bar.dev/60/?scale=100&title=Tailwind&width=500&color=38BDF8" />
 
 ---
 
-## 🏗 Development Philosophy
-
-I focus on building:
-
-- Scalable frontend architectures  
-- Maintainable UI systems  
-- Clean and readable codebases  
-- User-centered interfaces  
-
-I treat every project as a product — not just a task.
-
----
-
-## 📌 Current Focus
-
-- Improving React architecture patterns  
-- Advanced JavaScript concepts  
-- Frontend system design  
-- Performance optimization  
-
----
-
-## 📫 Contact
-
-GitHub: https://github.com/willams710  
-
----
-
-> “Code is not just about making it work.  
-> It’s about making it scalable, readable, and future-proof.”
+GitHub: https://github.com/willams710
