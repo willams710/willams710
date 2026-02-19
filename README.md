@@ -1,78 +1,79 @@
-<!-- PREMIUM GITHUB PROFILE README -->
-
-<h1 align="center">
-  Hi 👋, I'm [Ismingiz]
-</h1>
-
-<h3 align="center">
-  🚀 Full Stack Developer | Problem Solver | Tech Enthusiast
-</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Engineer;Clean+Code+Lover;Always+Learning+New+Things" />
-</p>
+<h1 align="center">Willams</h1>
+<h3 align="center">Senior Frontend Developer</h3>
 
 ---
 
-## 👑 About Me
+## 👨‍💻 Professional Summary
 
-- 🔭 Currently working on: **Modern Web Applications**
-- 🌱 Learning: **System Design & Scalable Architecture**
-- 💬 Ask me about: **JavaScript, Python, APIs**
-- 🎯 Goal: Become a **Top Tier Software Engineer**
-- ⚡ Fun fact: I turn coffee ☕ into clean code 💻
+I am a frontend-focused software engineer with strong expertise in building scalable, maintainable, and performance-driven web applications.  
+My approach is centered around clean architecture, reusable components, and writing code that is easy to scale and maintain.
 
----
-
-## 🛠 Tech Stack
-
-### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=js,python,html,css" />
-</p>
-
-### ⚙️ Frameworks & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,react,express,git,github,vscode,docker" />
-</p>
+I believe in:
+- Writing clean and predictable code
+- Building responsive and accessible UI
+- Continuous improvement and learning
+- Performance-first development mindset
 
 ---
 
-## 📊 GitHub Analytics
+## 🧠 Core Expertise
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</p>
-
----
-
-## 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" />
-</p>
+Frontend Development  
+Component-Based Architecture  
+Responsive Web Design  
+UI Performance Optimization  
+Clean Code Principles  
 
 ---
 
-## 📈 Contribution Graph
+## 🛠 Technical Skills
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://t.me/your_username"><img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/your_username"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/your_username"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
+HTML — 90%  
+CSS — 90%  
+JavaScript — 70%  
+React — 30%  
+Tailwind CSS — 60%  
 
 ---
 
-<h3 align="center">
-  ⭐ If you like my work, give some love to my repositories!
-</h3>
+## ⚙️ Tech Stack
+
+- HTML5  
+- CSS3  
+- JavaScript (ES6+)  
+- React  
+- Tailwind CSS  
+- Git & GitHub  
+
+---
+
+## 🏗 Development Philosophy
+
+I focus on building:
+
+- Scalable frontend architectures  
+- Maintainable UI systems  
+- Clean and readable codebases  
+- User-centered interfaces  
+
+I treat every project as a product — not just a task.
+
+---
+
+## 📌 Current Focus
+
+- Improving React architecture patterns  
+- Advanced JavaScript concepts  
+- Frontend system design  
+- Performance optimization  
+
+---
+
+## 📫 Contact
+
+GitHub: https://github.com/willams710  
+
+---
+
+> “Code is not just about making it work.  
+> It’s about making it scalable, readable, and future-proof.”
